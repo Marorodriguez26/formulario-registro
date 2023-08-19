@@ -1,0 +1,44 @@
+form {
+    width:600px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#fd5454;width:300px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#b2b2e8;
+  }
+  
+  div {
+    margin: 10px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 120px;
+  }
+  
+  input {
+    display: inline-block;
+    width: 250px;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #0b6eaf;
+    color: white;
+    border: none;
+  }
+  
+  .error {
+    color: red;
+  }
+  h1 {
+    text-align: center;
+  }
